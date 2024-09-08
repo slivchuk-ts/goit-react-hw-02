@@ -1,0 +1,17 @@
+.description{
+text-align: center;
+color: white;
+padding: 20px;
+}
+
+h1{
+font-size: 20px;
+margin-bottom: 20px;
+color: #FFDBB5;
+}
+
+p{
+font-size: 20px;
+line-height: 1.5;
+color: #DFD3C3;
+}
